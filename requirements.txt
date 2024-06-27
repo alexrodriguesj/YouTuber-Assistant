@@ -1,0 +1,6 @@
+streamlit==1.9.0
+langchain
+openai
+faiss-cpu
+python-dotenv
+textwrap3
